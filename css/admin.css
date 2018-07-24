@@ -1,0 +1,57 @@
+/*MOVIES PAGE*/
+.add-movie {
+	margin-top: 50px;
+}
+.add-movie input {
+	display: inline-block;
+	padding: 8px;
+	margin: 10px;
+	font-size: 17px;
+	width: 85%;
+}
+label {
+	display: inline-block;
+	text-align: right;
+	width: 95%;
+}
+.add-movie .form-input {
+	width: 100%;
+}
+.add-movie form input[type='submit'] {
+	margin-left: 12px;
+	border: none;
+	background: #ff6600;
+	padding: 10px;
+	color: white;
+}
+.add-movie form {
+	margin: 10px;
+
+}
+.dlt-button {
+	background: antiquewhite;
+	padding: 4px 8px;
+	color: red;
+}
+
+/*INDEX PAGE*/
+.align {
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	margin-top: 110px;
+}
+.button {
+	padding: 18px;
+	margin: 10px;
+	display: block;
+	font-size: 25px;
+	color: aliceblue;
+	background: #85c042;
+	text-align: center;
+	border-radius: 4px;
+}
+a.button:hover {
+	transition-duration: .5s;
+	background: #0d4811;
+}

@@ -1,0 +1,54 @@
+.log-title {
+    margin-top: 40px;
+    font-size:30px; 
+    font-weight:bold;
+    padding: 10px;
+    text-transform: uppercase;
+    text-align: center;
+    }
+.form-container input, .form-container textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #5fb300;
+    font-size: 15px;
+}
+.form-container input[type="submit"] {
+    margin-top: 12px;
+    background: #85c042;
+    transition-duration: 1s;
+}
+.form-container input[type='submit']:hover {
+    background: #4CAF50;
+}
+.input {
+    padding: 3px 10px;
+}
+.form-container {
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 3px;
+    border: 1px solid #4CAF50;
+    background: #e1f7c7;
+    /*margin-top: 10%;*/
+}
+.form-container form {
+    margin: 0 auto;
+    width: 100%;
+    padding: 10px 0;
+}
+.forms {
+    margin: 10px;
+    text-align: center;
+}
+.forms .toggle-button {
+    margin: 10px 0;
+    border: none;
+    padding: 10px;
+    width: 150px;
+    text-transform: uppercase;
+}
+.forms .toggle-button:hover {
+    background: gray;
+    color: white;
+}

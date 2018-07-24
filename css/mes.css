@@ -1,0 +1,33 @@
+.cartticket {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	padding: 4px;
+}
+.cartticket .carthead {
+    font-size:30px; 
+	font-weight:bold;
+	padding: 10px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.ticketbody {
+	font-weight:bold;
+	margin-top:15px;
+	border-radius: 10px;
+	background-color:#c9f1c9;
+	border: 1px solid #8bc34a;
+	padding: 10px;
+}
+.ticketbody .label{
+	font-weight:normal !important;
+	margin-left:20px;
+	margin-right:10px; 
+	width: 100px;
+	display:  inline-block;
+	text-align:  right;
+}
+.ticket .cartbody h3 span {
+	padding: 19px;
+	font-size: 40px;
+}

@@ -1,0 +1,47 @@
+/*FOOTER*/
+.footer{     
+  background:#212121;
+  padding:1em 0; 
+}
+.footer_text{
+  border-bottom:1px solid #999;
+}
+.footer_text p{
+  color:#999;
+  line-height:1.8em;
+}
+
+/*GLOBAL SETTINGS*/
+html, body{
+  font-size: 100%;
+	font-family: 'Roboto Condensed', sans-serif;
+	background:#ffffff;
+	margin: 0;
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 1170px;
+}
+h1,h2,h3,h4,h5,h6,a{
+	font-family: 'Roboto Condensed', sans-serif;
+	margin:0;
+}
+a {
+  text-decoration: none;
+}
+.clearfix:after{
+	clear: both;
+	display: table;
+	content: " ";
+}
+* {
+    box-sizing: border-box;
+}
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+

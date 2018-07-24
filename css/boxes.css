@@ -1,0 +1,65 @@
+  .status {
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px;
+    background: #ff6600;
+    color: white;
+    text-align-last: center;
+}
+.general {
+  padding: 3em 0;
+}
+.mov_tab {
+  width: 19.66666667%;
+  float: left;
+  padding-right: 15px;
+}
+h4.latest-text {
+  border-left: 5px solid #ff8d1b;
+  font-size: 2em;
+  color: #212121;
+  text-transform: uppercase;
+  margin-bottom: 1em;
+  padding: 0.3em 0.5em;
+  margin-left: 3em;
+}
+.movie-time{
+	color: red;
+}
+.movie-text {
+	padding-top: 10px;
+}
+.movie-text a.button{
+	background-color: #ff6600;
+	color: white;
+	height: 30px;
+	border: 0ch;
+	border-radius: 5px;
+	padding: 8px;
+}
+.movie-text a.button:hover{
+	background-color: #ff9911;
+}
+.movie-text h6 a {
+	font-size: 1.4em;
+	color: #222;
+}
+.img-box {
+   width: 181px;
+   height: 268px;
+}
+.img1 {
+   background-image: url("../img/m15.jpg");
+}
+.img2 {
+   background-image: url("../img/m19.jpg");
+}
+.img3 {
+   background-image: url("../img/m5.jpg");
+}
+.img4 {
+   background-image: url("../img/m21.jpg");
+}
+.img5 {
+   background-image: url("../img/m22.jpg");
+}
