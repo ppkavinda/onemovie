@@ -15,7 +15,7 @@ adminOnly();
 	    	$i++;
 	        $str.= "<tr><td>$row[fname] $row[lname]</td>";
 	        $str.= "<td>$row[email]</td>";
-	        $str.= "<td><a class='dlt-button' href='delete.php?t=users&id=$row[user_id]'>DELETE</a></td>";
+	        $str.= "<td><a class='edit-button' href='edit.php?id=$row[user_id]'>EDIT</a> or <a class='dlt-button' href='delete.php?t=users&id=$row[user_id]'>DELETE</a></td>";
 	    }
 	    $str.= "</table>";
 	}else{

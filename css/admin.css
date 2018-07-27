@@ -33,6 +33,11 @@ label {
 	padding: 4px 8px;
 	color: red;
 }
+.edit-button {
+	background: #c9e1f7;
+	padding: 4px 8px;
+	color: blue;
+}
 
 /*INDEX PAGE*/
 .align {
